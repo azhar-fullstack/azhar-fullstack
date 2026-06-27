@@ -27,6 +27,9 @@
 
 # 🚀 Featured Projects
 
+- [google-maps-leads-scraper](https://github.com/azhar-fullstack/google-maps-leads-scraper):
+  <br>Freelance project: Python + Playwright pipeline for Google Maps business lead extraction and 360° / Street View enrichment, with CSV export and resume support.
+
 - [python-data-analysis](https://github.com/azhar-fullstack/python-data-analysis):
   <br>Comprehensive data analysis and predictive modeling for car insurance claims using Python, pandas, and scikit-learn.
 
