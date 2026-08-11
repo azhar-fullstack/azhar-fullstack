@@ -49,12 +49,12 @@
 
   <text x="750" y="300" text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#F1F5F9">
-    Automation · Web Scraping · Computer Vision · Full-Stack
+    Automation - Web Scraping - Computer Vision - Full-Stack
   </text>
 
   <text x="750" y="350" text-anchor="middle"
         font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#94A3B8">
-    End-to-end systems — detect · extract · automate · deliver
+    End-to-end systems - detect - extract - automate - deliver
   </text>
 
   <!-- chips -->
