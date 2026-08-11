@@ -122,33 +122,22 @@ Hebrew RTL catalog · Flask · data refresh
 ### 📈 GitHub pulse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azhar-fullstack&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-fullstack&layout=compact&theme=tokyonight&hide_border=true&count_private=false" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azhar-fullstack&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azhar-fullstack&theme=tokyonight" alt="Top languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azhar-fullstack&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azhar-fullstack&theme=tokyonight" alt="Most used language"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=azhar-fullstack&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:238636,100:A371F7&height=120&section=footer&reversal=false"/>
-</div>
-
----
-
-### 💼 Fiverr
-
-<div align="center">
-
-[![Programming](https://img.shields.io/badge/Python%20%2F%20Java%20%2F%20C-Help-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/42keWNb)
-[![Scraping](https://img.shields.io/badge/Web_Scraping-Data_Extraction-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/gDwRB3Y)
-[![Bots](https://img.shields.io/badge/Bots%20%26%20Automation-Scripts-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7Y64rZx)
-[![CV](https://img.shields.io/badge/Computer_Vision-YOLO%20%2F%20Detection-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/Q7QlaeR)
-
 </div>
 
 ---
