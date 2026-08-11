@@ -1,92 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Azhar Mehmood">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Azhar Mehmood — Software Developer">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070B14">
-        <animate attributeName="stop-color" values="#070B14;#0B1220;#070B14" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#101826">
-        <animate attributeName="stop-color" values="#101826;#152238;#101826" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0A1628">
-        <animate attributeName="stop-color" values="#0A1628;#0E1F35;#0A1628" dur="10s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0B1C33"/>
+      <stop offset="100%" stop-color="#042F2E"/>
     </linearGradient>
-
-    <radialGradient id="glowA" cx="20%" cy="30%" r="45%">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    <radialGradient id="g1" cx="18%" cy="28%" r="42%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowB" cx="85%" cy="20%" r="40%">
-      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+    <radialGradient id="g2" cx="88%" cy="18%" r="38%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glowC" cx="70%" cy="85%" r="35%">
-      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    <radialGradient id="g3" cx="72%" cy="88%" r="34%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
     </radialGradient>
-
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F8FAFC"/>
-      <stop offset="45%" stop-color="#93C5FD"/>
-      <stop offset="100%" stop-color="#5EEAD4">
-        <animate attributeName="stop-color" values="#5EEAD4;#93C5FD;#5EEAD4" dur="6s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="55%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#5EEAD4"/>
     </linearGradient>
-
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0"/>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
       <stop offset="50%" stop-color="#67E8F9" stop-opacity="1"/>
       <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.5s" repeatCount="indefinite"/>
     </linearGradient>
-
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1"/>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#94A3B8" stroke-opacity="0.10" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="340" fill="url(#bg)"/>
-  <rect width="1200" height="340" fill="url(#grid)"/>
-  <rect width="1200" height="340" fill="url(#glowA)">
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="7s" repeatCount="indefinite"/>
-  </rect>
-  <rect width="1200" height="340" fill="url(#glowB)">
-    <animate attributeName="opacity" values="1;0.7;1" dur="8s" repeatCount="indefinite"/>
-  </rect>
-  <rect width="1200" height="340" fill="url(#glowC)"/>
+  <rect width="1400" height="420" fill="url(#bg)"/>
+  <rect width="1400" height="420" fill="url(#grid)"/>
+  <rect width="1400" height="420" fill="url(#g1)"/>
+  <rect width="1400" height="420" fill="url(#g2)"/>
+  <rect width="1400" height="420" fill="url(#g3)"/>
 
-  <!-- floating nodes -->
-  <g fill="#67E8F9">
-    <circle cx="180" cy="90" r="3" opacity="0.7">
-      <animate attributeName="cy" values="90;70;90" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="980" cy="120" r="2.5" fill="#93C5FD" opacity="0.8">
-      <animate attributeName="cy" values="120;100;120" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="860" cy="250" r="2" fill="#5EEAD4" opacity="0.7">
-      <animate attributeName="cx" values="860;890;860" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="250" r="2.5" opacity="0.6">
-      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/>
-    </circle>
+  <!-- geometric accents -->
+  <g stroke="#67E8F9" stroke-opacity="0.25" fill="none" stroke-width="1.5">
+    <circle cx="160" cy="210" r="70"/>
+    <circle cx="160" cy="210" r="110"/>
+    <circle cx="1240" cy="120" r="50"/>
+    <circle cx="1240" cy="120" r="85"/>
   </g>
+  <g fill="#67E8F9">
+    <circle cx="210" cy="150" r="3.5" opacity="0.8"/>
+    <circle cx="118" cy="270" r="2.5" opacity="0.6"/>
+    <circle cx="1280" cy="200" r="3" opacity="0.7"/>
+    <circle cx="1120" cy="300" r="2.5" opacity="0.55"/>
+    <circle cx="980" cy="80" r="2" opacity="0.7"/>
+  </g>
+  <path d="M90 320 C220 250, 280 360, 420 300" stroke="#38BDF8" stroke-opacity="0.35" fill="none" stroke-width="1.5"/>
+  <path d="M980 340 C1100 280, 1180 360, 1320 300" stroke="#2DD4BF" stroke-opacity="0.30" fill="none" stroke-width="1.5"/>
 
-  <text x="600" y="120" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#94A3B8" letter-spacing="6">
-    SOFTWARE DEVELOPER
-  </text>
+  <text x="700" y="118" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="8" fill="#94A3B8">SOFTWARE DEVELOPER</text>
 
-  <text x="600" y="185" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="url(#titleGrad)">
-    Azhar Mehmood
-  </text>
+  <text x="700" y="190" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#title)">Azhar Mehmood</text>
 
-  <rect x="420" y="210" width="360" height="2" rx="1" fill="url(#lineGrad)"/>
+  <rect x="480" y="218" width="440" height="3" rx="2" fill="url(#bar)"/>
 
-  <text x="600" y="255" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#CBD5E1">
-    Automation · Web Scraping · Computer Vision · Full-Stack Tools
-  </text>
+  <text x="700" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" fill="#E2E8F0">Automation · Web Scraping · Computer Vision · Full-Stack</text>
 
-  <text x="600" y="295" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#64748B">
-    Practical systems clients can run  detect, extract, automate, ship
-  </text>
+  <text x="700" y="318" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#94A3B8">End-to-end systems: detect · extract · automate · deliver</text>
+
+  <!-- bottom chips -->
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#CBD5E1">
+    <rect x="370" y="350" width="120" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="430" y="371" text-anchor="middle">Python</text>
+    <rect x="510" y="350" width="130" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="575" y="371" text-anchor="middle">Playwright</text>
+    <rect x="660" y="350" width="110" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="715" y="371" text-anchor="middle">YOLO</text>
+    <rect x="790" y="350" width="120" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="850" y="371" text-anchor="middle">OpenCV</text>
+    <rect x="930" y="350" width="110" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="985" y="371" text-anchor="middle">Flask</text>
+  </g>
 </svg>
