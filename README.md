@@ -23,7 +23,7 @@
 ## Focus areas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/ef4e20c/assets/domains.png" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/cbcf421caac5b21409a53b21fc176308f9403394/assets/domains.png" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ collect / detect  ->  process  ->  deliver (Excel / UI / video / API)
 Public repositories reflect real client-style work: lead generation, browser automation, computer-vision overlays, and small full-stack products.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/ef4e20c/assets/about-cards.png" width="100%" alt="Core strengths, working style, open to"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/cbcf421caac5b21409a53b21fc176308f9403394/assets/about-cards.png" width="100%" alt="Core strengths, working style, open to"/>
 </p>
 
 ---
