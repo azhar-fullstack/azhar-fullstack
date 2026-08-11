@@ -10,7 +10,7 @@
 
 <div align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@main/assets/banner.svg"
+    src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@39f33a1b05b7/assets/banner.svg"
     width="92%"
     alt="Developer profile banner"
   />
