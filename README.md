@@ -1,151 +1,176 @@
+<!--
+  Profile README — visual, clean, professional.
+  No Fiverr links. Stack matches public repos only.
+-->
+
 <div align="center">
-  
-  <!-- typing animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=740&lines=Azhar+Mehmood;Freelance+Developer;Automation+%7C+Scraping+%7C+Computer+Vision;I+build+tools+clients+can+actually+run" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=azhar-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  &nbsp;
-  <a href="https://github.com/azhar-fullstack?tab=followers">
-    <img src="https://img.shields.io/github/followers/azhar-fullstack?label=Followers&style=social" alt="Followers"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2&section=header"/>
-
-  <br/>
-
-  <b>Python · Automation · Web Scraping · Computer Vision · Full-Stack Tools</b>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=header"/>
-
+  <img src="./assets/banner.svg" alt="Azhar Mehmood" width="100%"/>
 </div>
 
----
+<br/>
 
-### 👋 About
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=780&lines=Building+automation+that+saves+hours;Scraping+%26+lead+pipelines+that+export+clean+data;YOLO+%2B+OpenCV+computer+vision+systems;Full-stack+tools+with+usable+UIs" alt="Typing animation"/>
+  </a>
+</div>
 
-I'm a freelance developer who ships **practical systems** — scrape or detect → process → export or UI.
+<br/>
 
-Currently focused on lead tools, browser automation, YOLO/OpenCV pipelines, and small full-stack apps.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azhar-fullstack&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/azhar-fullstack?label=Followers&style=flat-square&color=14b8a6" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20work-22c55e?style=flat-square" alt="Available"/>
+  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20CV%20%7C%20Scraping-3b82f6?style=flat-square" alt="Focus"/>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Open_to-Freelance-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-0969da?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based_on-Real_Shipped_Work-6e40c9?style=for-the-badge"/>
-</p>
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
 
----
+## About
 
-### 🚀 Featured work
+I design and ship **end-to-end tools**: collect or detect → process → deliver (Excel, UI, video, API).
+
+My public work is oriented around problems companies actually hire for — lead generation, browser automation, computer vision overlays, and small production web apps.
+
+| | |
+|---|---|
+| **Strengths** | Scraping pipelines · Selenium / Playwright · YOLO + OpenCV · Flask / React apps |
+| **Approach** | Clean repos, runnable demos, honest READMEs |
+| **Open to** | Freelance projects · collaborations · interesting automation / CV work |
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
+
+## Featured projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-**🌐 Web3**  
-[cryptoswap-web3](https://github.com/azhar-fullstack/cryptoswap-web3)  
-Full-stack crypto swap · React + Node + WalletConnect
+### Web3
+**[cryptoswap-web3](https://github.com/azhar-fullstack/cryptoswap-web3)**  
+Full-stack crypto swap application.  
+`React` · `Node.js` · `WalletConnect`
 
-**🎯 Computer Vision**  
-[billboard-ad-replacement](https://github.com/azhar-fullstack/billboard-ad-replacement)  
-YOLO train + detect · OpenCV ad warp on billboards
+### Computer Vision
+**[billboard-ad-replacement](https://github.com/azhar-fullstack/billboard-ad-replacement)**  
+Train YOLO → detect billboards → warp replacement ads.  
+`YOLO` · `OpenCV` · `PyTorch`
 
-**🧲 Lead Scraping**  
-[company-data-scraper-webapp](https://github.com/azhar-fullstack/company-data-scraper-webapp)  
-Flask UI · GelbeSeiten/Google · Excel export
+### Lead Scraping
+**[company-data-scraper-webapp](https://github.com/azhar-fullstack/company-data-scraper-webapp)**  
+Live scrape UI + Excel export for company leads.  
+`Flask` · `BeautifulSoup` · `Selenium`
 
-**🗺️ Maps Leads**  
-[google-maps-leads-scraper](https://github.com/azhar-fullstack/google-maps-leads-scraper)  
-Playwright pipeline · enrichment · CSV / resume
+### Maps Leads
+**[google-maps-leads-scraper](https://github.com/azhar-fullstack/google-maps-leads-scraper)**  
+Google Maps business extraction with resume & CSV.  
+`Python` · `Playwright`
 
-</td>
-<td width="50%">
+    </td>
+    <td width="50%" valign="top">
 
-**🧭 Algorithms / Viz**  
-[cpp-graph-navigation](https://github.com/azhar-fullstack/cpp-graph-navigation)  
-PathLab · C++ Dijkstra · interactive map demo
+### Algorithms / Visualization
+**[cpp-graph-navigation](https://github.com/azhar-fullstack/cpp-graph-navigation)**  
+PathLab — Dijkstra on city graphs with interactive map UI.  
+`C++` · `JavaScript` · `Leaflet`
 
-**🎨 Chrome Extension**  
-[browser-color-palette-extension](https://github.com/azhar-fullstack/browser-color-palette-extension)  
-MV3 eyedropper · palettes · HEX/RGB export
+### Browser Extension
+**[browser-color-palette-extension](https://github.com/azhar-fullstack/browser-color-palette-extension)**  
+Eyedropper, palettes, HEX/RGB export (Manifest V3).  
+`JavaScript` · `Chrome MV3`
 
-**✈️ Desktop Automation**  
-[telegram-batch-command-bot](https://github.com/azhar-fullstack/telegram-batch-command-bot)  
-Batch Telegram commands · Python / Tkinter
+### Desktop Automation
+**[telegram-batch-command-bot](https://github.com/azhar-fullstack/telegram-batch-command-bot)**  
+Batch Telegram command sender with a desktop UI.  
+`Python` · `Tkinter`
 
-**🛒 Catalog Site**  
-[ecarpet-catalog](https://github.com/azhar-fullstack/ecarpet-catalog)  
-Hebrew RTL catalog · Flask · data refresh
+### Catalog Product
+**[ecarpet-catalog](https://github.com/azhar-fullstack/ecarpet-catalog)**  
+Hebrew RTL catalog site with data refresh flow.  
+`Flask` · `HTML/CSS`
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
----
-
-### 💻 Stack I actually use
+<p align="center">
+  <a href="https://github.com/azhar-fullstack?tab=repositories">
+    <img src="https://img.shields.io/badge/View_all_repositories-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="All repos"/>
+  </a>
+</p>
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css" />
-
-**Frameworks & tools**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,selenium,opencv,pytorch,git" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+  <img src="./assets/divider.svg" width="100%" alt=""/>
 </div>
 
----
-
-### 📈 GitHub pulse
+## Stack
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azhar-fullstack&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azhar-fullstack&theme=tokyonight" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,java,html,css,react,nodejs,flask,selenium,opencv,pytorch,git,vscode" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azhar-fullstack&theme=tokyonight" alt="Most used language"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=azhar-fullstack&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+| Layer | Technologies |
+|---|---|
+| Languages | Python · JavaScript · C++ · Java |
+| Web | Flask · React · Node.js · HTML/CSS |
+| Automation | Selenium · Playwright · Chrome Extensions |
+| Vision / Data | OpenCV · Ultralytics YOLO · pandas |
+| Delivery | Excel / CSV export · desktop UI · REST-style apps |
+
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt=""/>
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azhar-fullstack&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azhar-fullstack&theme=radical" alt="Languages by repo"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:238636,100:A371F7&height=120&section=footer&reversal=false"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azhar-fullstack&theme=radical" alt="Most commit language"/>
+  <img src="https://streak-stats.demolab.com/?user=azhar-fullstack&theme=radical&hide_border=true" alt="Streak"/>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhar-fullstack&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Contribution snake (generated daily by GitHub Action on branch: output) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:14b8a6&height=140&section=footer"/>
+</div>
 
 <div align="center">
 
-✨ Thanks for visiting — feel free to explore the repos above  
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768919855787fbfa561f6/star_pointer.gif" width="28" alt=""/>  
-**[github.com/azhar-fullstack](https://github.com/azhar-fullstack)**
+**Thanks for visiting.**  
+Explore the featured repositories above — each one is meant to be runnable and reviewable.
+
+[github.com/azhar-fullstack](https://github.com/azhar-fullstack)
 
 </div>
