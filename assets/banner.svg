@@ -1,81 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Azhar Mehmood — Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="460" viewBox="0 0 1500 460" role="img" aria-label="Azhar Mehmood">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="45%" stop-color="#0B1C33"/>
-      <stop offset="100%" stop-color="#042F2E"/>
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0F172A"/>
     </linearGradient>
-    <radialGradient id="g1" cx="18%" cy="28%" r="42%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    <radialGradient id="glowL" cx="15%" cy="35%" r="40%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="g2" cx="88%" cy="18%" r="38%">
-      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.40"/>
-      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    <radialGradient id="glowR" cx="85%" cy="25%" r="38%">
+      <stop offset="0%" stop-color="#0D9488" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0D9488" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="g3" cx="72%" cy="88%" r="34%">
-      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F8FAFC"/>
-      <stop offset="55%" stop-color="#7DD3FC"/>
+      <stop offset="50%" stop-color="#93C5FD"/>
       <stop offset="100%" stop-color="#5EEAD4"/>
     </linearGradient>
-    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#67E8F9" stop-opacity="1"/>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="1"/>
       <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#94A3B8" stroke-opacity="0.10" stroke-width="1"/>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#94A3B8" fill-opacity="0.18"/>
     </pattern>
   </defs>
 
-  <rect width="1400" height="420" fill="url(#bg)"/>
-  <rect width="1400" height="420" fill="url(#grid)"/>
-  <rect width="1400" height="420" fill="url(#g1)"/>
-  <rect width="1400" height="420" fill="url(#g2)"/>
-  <rect width="1400" height="420" fill="url(#g3)"/>
+  <!-- solid dark canvas so text stays readable on light GitHub theme -->
+  <rect width="1500" height="460" fill="url(#bg)"/>
+  <rect width="1500" height="460" fill="url(#dots)"/>
+  <rect width="1500" height="460" fill="url(#glowL)"/>
+  <rect width="1500" height="460" fill="url(#glowR)"/>
 
-  <!-- geometric accents -->
-  <g stroke="#67E8F9" stroke-opacity="0.25" fill="none" stroke-width="1.5">
-    <circle cx="160" cy="210" r="70"/>
-    <circle cx="160" cy="210" r="110"/>
-    <circle cx="1240" cy="120" r="50"/>
-    <circle cx="1240" cy="120" r="85"/>
+  <g stroke="#38BDF8" stroke-opacity="0.22" fill="none" stroke-width="1.5">
+    <circle cx="140" cy="230" r="78"/>
+    <circle cx="140" cy="230" r="118"/>
+    <circle cx="1360" cy="120" r="56"/>
+    <circle cx="1360" cy="120" r="92"/>
   </g>
-  <g fill="#67E8F9">
-    <circle cx="210" cy="150" r="3.5" opacity="0.8"/>
-    <circle cx="118" cy="270" r="2.5" opacity="0.6"/>
-    <circle cx="1280" cy="200" r="3" opacity="0.7"/>
-    <circle cx="1120" cy="300" r="2.5" opacity="0.55"/>
-    <circle cx="980" cy="80" r="2" opacity="0.7"/>
-  </g>
-  <path d="M90 320 C220 250, 280 360, 420 300" stroke="#38BDF8" stroke-opacity="0.35" fill="none" stroke-width="1.5"/>
-  <path d="M980 340 C1100 280, 1180 360, 1320 300" stroke="#2DD4BF" stroke-opacity="0.30" fill="none" stroke-width="1.5"/>
 
-  <text x="700" y="118" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="8" fill="#94A3B8">SOFTWARE DEVELOPER</text>
+  <text x="750" y="120" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="20" letter-spacing="10" fill="#94A3B8">SOFTWARE DEVELOPER</text>
 
-  <text x="700" y="190" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="700" fill="url(#title)">Azhar Mehmood</text>
+  <text x="750" y="205" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="78" font-weight="700" fill="url(#nameGrad)">Azhar Mehmood</text>
 
-  <rect x="480" y="218" width="440" height="3" rx="2" fill="url(#bar)"/>
+  <rect x="520" y="235" width="460" height="3" rx="2" fill="url(#line)"/>
 
-  <text x="700" y="270" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" fill="#E2E8F0">Automation · Web Scraping · Computer Vision · Full-Stack</text>
+  <text x="750" y="290" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="26" fill="#E2E8F0">Automation · Web Scraping · Computer Vision · Full-Stack</text>
 
-  <text x="700" y="318" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#94A3B8">End-to-end systems: detect · extract · automate · deliver</text>
+  <text x="750" y="340" text-anchor="middle"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="18" fill="#94A3B8">End-to-end systems clients can run — detect · extract · automate · deliver</text>
 
-  <!-- bottom chips -->
-  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" fill="#CBD5E1">
-    <rect x="370" y="350" width="120" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
-    <text x="430" y="371" text-anchor="middle">Python</text>
-    <rect x="510" y="350" width="130" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
-    <text x="575" y="371" text-anchor="middle">Playwright</text>
-    <rect x="660" y="350" width="110" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
-    <text x="715" y="371" text-anchor="middle">YOLO</text>
-    <rect x="790" y="350" width="120" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
-    <text x="850" y="371" text-anchor="middle">OpenCV</text>
-    <rect x="930" y="350" width="110" height="32" rx="16" fill="#0F172A" stroke="#334155"/>
-    <text x="985" y="371" text-anchor="middle">Flask</text>
+  <!-- high-contrast chips -->
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="355" y="380" width="130" height="36" rx="8" fill="#1E293B" stroke="#38BDF8"/>
+    <text x="420" y="403" text-anchor="middle" fill="#F8FAFC">Python</text>
+    <rect x="505" y="380" width="150" height="36" rx="8" fill="#1E293B" stroke="#2DD4BF"/>
+    <text x="580" y="403" text-anchor="middle" fill="#F8FAFC">Playwright</text>
+    <rect x="675" y="380" width="120" height="36" rx="8" fill="#1E293B" stroke="#818CF8"/>
+    <text x="735" y="403" text-anchor="middle" fill="#F8FAFC">YOLO</text>
+    <rect x="815" y="380" width="130" height="36" rx="8" fill="#1E293B" stroke="#38BDF8"/>
+    <text x="880" y="403" text-anchor="middle" fill="#F8FAFC">OpenCV</text>
+    <rect x="965" y="380" width="120" height="36" rx="8" fill="#1E293B" stroke="#2DD4BF"/>
+    <text x="1025" y="403" text-anchor="middle" fill="#F8FAFC">Flask</text>
   </g>
 </svg>
