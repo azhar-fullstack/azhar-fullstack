@@ -1,7 +1,7 @@
 <!-- Profile README: professional, high-contrast, no contribution/streak widgets -->
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@65795df/assets/banner.svg" width="100%" alt="Azhar Mehmood — Software Developer"/>
+  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@d4910eb/assets/banner.svg" width="100%" alt="Azhar Mehmood — Software Developer"/>
 </p>
 
 <p align="center">
