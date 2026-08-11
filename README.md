@@ -1,16 +1,16 @@
-<!-- Profile README: PNG assets (GitHub Camo blocks many SVGs) -->
+<!-- Profile README: absolute PNG URLs (relative paths break on profile Overview) -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Azhar Mehmood - Software Developer"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/banner.png" width="100%" alt="Azhar Mehmood - Software Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Freelance+Software+Developer;Web+Scraping+%26+Lead+Pipelines;Computer+Vision+%28YOLO+%2B+OpenCV%29;Full-Stack+Tools+with+Runnable+Demos" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=Freelance+Software+Developer;Web+Scraping+%26+Lead+Pipelines;Computer+Vision+(YOLO+%2B+OpenCV);Full-Stack+Tools+with+Runnable+Demos" alt="Typing"/>
 </p>
 
-<!-- Top tech tabs restored -->
+<!-- Top tech tabs -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Available_for_work-16a34a?style=for-the-badge&labelColor=020617" alt="Available for work"/>
+  <a href="https://github.com/azhar-fullstack?tab=repositories"><img src="https://img.shields.io/badge/Available_for_work-16a34a?style=for-the-badge&labelColor=020617" alt="Available for work"/></a>
   <img src="https://img.shields.io/badge/Web_Scraping-0284c7?style=for-the-badge&labelColor=020617" alt="Web Scraping"/>
   <img src="https://img.shields.io/badge/Computer_Vision-0f766e?style=for-the-badge&labelColor=020617" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/AI_%26_Automation-7c3aed?style=for-the-badge&labelColor=020617" alt="AI Automation"/>
@@ -23,7 +23,7 @@
 ## Focus areas
 
 <p align="center">
-  <img src="./assets/domains.png" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/domains.png" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ collect / detect  ->  process  ->  deliver (Excel / UI / video / API)
 Public repositories reflect real client-style work: lead generation, browser automation, computer-vision overlays, and small full-stack products.
 
 <p align="center">
-  <img src="./assets/about-cards.png" width="100%" alt="Core strengths, working style, open to"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/about-cards.png" width="100%" alt="Core strengths, working style, open to"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Public repositories reflect real client-style work: lead generation, browser aut
 ## Technical stack
 
 <p align="center">
-  <img src="./assets/stack.png" width="100%" alt="Technical stack by layer"/>
+  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/stack.png" width="100%" alt="Technical stack by layer"/>
 </p>
 
 <p align="center">
