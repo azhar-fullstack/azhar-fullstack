@@ -1,7 +1,7 @@
 <!-- Professional profile README — high-contrast SVGs, no streak/contribution widgets -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/banner.svg" width="100%" alt="Azhar Mehmood — Software Developer"/>
+  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@e9c088b4d59c92bc1f88763041f254ddf1020f69/assets/banner.svg" width="100%" alt="Azhar Mehmood — Software Developer"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## Focus areas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/domains.svg" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
+  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@e9c088b4d59c92bc1f88763041f254ddf1020f69/assets/domains.svg" width="100%" alt="Web Scraping, Computer Vision, AI Automation, Full-Stack"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@ collect / detect  →  process  →  deliver (Excel · UI · video · API)
 Public repositories reflect real client-style work: lead generation, browser automation, computer-vision overlays, and small full-stack products.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/about-cards.svg" width="100%" alt="Strengths, working style, open to"/>
+  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@e9c088b4d59c92bc1f88763041f254ddf1020f69/assets/about-cards.svg" width="100%" alt="Strengths, working style, open to"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Public repositories reflect real client-style work: lead generation, browser aut
 ## Technical stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/main/assets/stack.svg" width="100%" alt="Technical stack by layer"/>
+  <img src="https://cdn.jsdelivr.net/gh/azhar-fullstack/azhar-fullstack@e9c088b4d59c92bc1f88763041f254ddf1020f69/assets/stack.svg" width="100%" alt="Technical stack by layer"/>
 </p>
 
 <p align="center">
