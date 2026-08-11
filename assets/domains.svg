@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
   <defs>
     <linearGradient id="c1" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1E3A8A"/><stop offset="100%" stop-color="#0EA5E9"/>
@@ -13,26 +13,21 @@
       <stop offset="0%" stop-color="#9A3412"/><stop offset="100%" stop-color="#F59E0B"/>
     </linearGradient>
   </defs>
-  <rect width="1400" height="320" fill="#0F172A"/>
+  <rect width="1200" height="420" fill="#0F172A"/>
 
-  <rect x="16" y="18" width="336" height="284" rx="20" fill="url(#c1)"/>
-  <text x="184" y="118" text-anchor="middle" font-family="Segoe UI, Arial" font-size="38" font-weight="700" fill="#FFFFFF">WEB SCRAPING</text>
-  <text x="184" y="180" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#E0F2FE">Leads - Directories</text>
-  <text x="184" y="224" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#E0F2FE">CSV / Excel export</text>
+  <rect x="20" y="20" width="570" height="180" rx="22" fill="url(#c1)"/>
+  <text x="305" y="90" text-anchor="middle" font-family="Segoe UI, Arial" font-size="42" font-weight="700" fill="#FFFFFF">WEB SCRAPING</text>
+  <text x="305" y="140" text-anchor="middle" font-family="Segoe UI, Arial" font-size="28" fill="#E0F2FE">Leads - Directories - CSV / Excel export</text>
 
-  <rect x="360" y="18" width="336" height="284" rx="20" fill="url(#c2)"/>
-  <text x="528" y="118" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#FFFFFF">COMPUTER VISION</text>
-  <text x="528" y="180" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#CCFBF1">YOLO - OpenCV</text>
-  <text x="528" y="224" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#CCFBF1">Detection pipelines</text>
+  <rect x="610" y="20" width="570" height="180" rx="22" fill="url(#c2)"/>
+  <text x="895" y="90" text-anchor="middle" font-family="Segoe UI, Arial" font-size="42" font-weight="700" fill="#FFFFFF">COMPUTER VISION</text>
+  <text x="895" y="140" text-anchor="middle" font-family="Segoe UI, Arial" font-size="28" fill="#CCFBF1">YOLO - OpenCV - Detection pipelines</text>
 
-  <rect x="704" y="18" width="336" height="284" rx="20" fill="url(#c3)"/>
-  <text x="872" y="100" text-anchor="middle" font-family="Segoe UI, Arial" font-size="36" font-weight="700" fill="#FFFFFF">AI</text>
-  <text x="872" y="144" text-anchor="middle" font-family="Segoe UI, Arial" font-size="34" font-weight="700" fill="#FFFFFF">&amp; AUTOMATION</text>
-  <text x="872" y="200" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#EDE9FE">Bots - Pipelines</text>
-  <text x="872" y="244" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#EDE9FE">Repeatable workflows</text>
+  <rect x="20" y="220" width="570" height="180" rx="22" fill="url(#c3)"/>
+  <text x="305" y="290" text-anchor="middle" font-family="Segoe UI, Arial" font-size="42" font-weight="700" fill="#FFFFFF">AI &amp; AUTOMATION</text>
+  <text x="305" y="340" text-anchor="middle" font-family="Segoe UI, Arial" font-size="28" fill="#EDE9FE">Bots - Pipelines - Repeatable workflows</text>
 
-  <rect x="1048" y="18" width="336" height="284" rx="20" fill="url(#c4)"/>
-  <text x="1216" y="118" text-anchor="middle" font-family="Segoe UI, Arial" font-size="38" font-weight="700" fill="#FFFFFF">FULL-STACK</text>
-  <text x="1216" y="180" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#FEF3C7">Flask - React - Node</text>
-  <text x="1216" y="224" text-anchor="middle" font-family="Segoe UI, Arial" font-size="30" fill="#FEF3C7">UI + backend tools</text>
+  <rect x="610" y="220" width="570" height="180" rx="22" fill="url(#c4)"/>
+  <text x="895" y="290" text-anchor="middle" font-family="Segoe UI, Arial" font-size="42" font-weight="700" fill="#FFFFFF">FULL-STACK</text>
+  <text x="895" y="340" text-anchor="middle" font-family="Segoe UI, Arial" font-size="28" fill="#FEF3C7">Flask - React - Node - UI + backend tools</text>
 </svg>
