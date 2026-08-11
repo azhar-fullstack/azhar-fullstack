@@ -151,17 +151,6 @@ Hebrew RTL catalog site with data refresh flow.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhar-fullstack&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%"/>
 </div>
 
-<br/>
-
-<!-- Contribution snake (generated daily by GitHub Action on branch: output) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/azhar-fullstack/azhar-fullstack/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:14b8a6&height=140&section=footer"/>
 </div>
